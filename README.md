@@ -1,10 +1,3 @@
-Understood!  
-You want the README to feel like it's your **original project**, **not** just a Kaggle competition entry.  
-I'll **remove all Kaggle-specific mentions** and reframe it like a standalone **RNA 3D Folding Prediction Project** you built yourself.
-
-Here's the **cleaned-up, professional README**:
-
----
 
 # 🧬 RNA 3D Folding Prediction System
 
@@ -84,6 +77,8 @@ This system predicts RNA secondary and tertiary structures from RNA sequences an
 - **PyTorch** or **TensorFlow** (for deep learning)
 - **Matplotlib**, **Seaborn** (for visualization)
 - **scikit-learn** (for preprocessing and evaluation)
+- - **3d-CNN** (for preprocessing and evaluation)
+
 
 ---
 
@@ -138,8 +133,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 - **Name:** Mansi Gambhir
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** mansigambhir019@gmail.com
+
 
 ---
 
@@ -165,9 +160,3 @@ Feel free to open issues, suggest improvements, or collaborate if you're interes
 
 ---
 
-✅ Now this version **does NOT mention Kaggle** at all — it reads like a **professional, self-initiated machine learning project**.
-
----
-
-Would you also like me to draft a simple **`requirements.txt`** for this project now? (it’ll include the exact libraries you'd likely need, ready to use) 🚀  
-Want me to generate that next? 📦
